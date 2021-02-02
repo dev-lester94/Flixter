@@ -14,7 +14,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 - [X] Implement a shared element transition when user clicks into the details of a movie (1 point).
 - [X] Trailers for popular movies are played automatically when the movie is selected (1 point).
-  - [X] When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
+  - [X] When clicking on a popular movie (i.e. a movie voted for more than 5 stars) (!!!!@@@#@#@Flixter Part 2 Demo 6.5 rating) the video should be played immediately.
   - [X] Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
 - [X] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
 - [ ] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
@@ -22,7 +22,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="https://github.com/dev-lester94/Flixter/blob/master/FlixterPart1Update.gif" width=250><br>
 
